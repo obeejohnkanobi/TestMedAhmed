@@ -5,5 +5,6 @@ public class Testing
         System.out.println("Assalamu alaikum Ahmad");
         System.out.println("Wa alaikom alsalam Yahya Kardesim");
         System.out.println("commit and push og fetch");
+        System.out.println("EY Wallah kardesim");
     }
 }
